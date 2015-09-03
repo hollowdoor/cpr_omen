@@ -1,6 +1,6 @@
 {
   "name": "cpr-omen",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Recursive file copy",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,8 @@
   "keywords": [
     "files",
     "file",
-    "search",
+    "copy",
+    "deep",
     "recursive"
   ],
   "author": "Quentin Engles <hollowdoor99@gmail.com>",

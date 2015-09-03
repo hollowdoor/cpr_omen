@@ -4,6 +4,12 @@ var filetrek = require('filetrek'),
     path = require('path'),
     fs = require('fs');
 
+/*
+git remote add origin https://github.com/hollowdoor/cpr_omen.git
+git push -u origin master
+npm publish
+*/
+
 module.exports = function(source, dest, options){
 
     return new Promise(function(resolve, reject){
