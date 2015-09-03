@@ -1,0 +1,22 @@
+{
+  "name": "cpr-omen",
+  "version": "0.0.1",
+  "description": "Recursive file copy",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd test && node run.js"
+  },
+  "keywords": [
+    "files",
+    "file",
+    "search",
+    "recursive"
+  ],
+  "author": "Quentin Engles <hollowdoor99@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cp-omen": "0.0.1",
+    "filetrek": "^1.0.0",
+    "mkdirp-omen": "0.0.3"
+  }
+}
