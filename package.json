@@ -1,6 +1,6 @@
 {
   "name": "cpr-omen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Recursive file copy",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,9 @@
     "cp-omen": "0.0.1",
     "filetrek": "^1.0.0",
     "mkdirp-omen": "0.0.3"
-  }
+  },
+  "repository": {
+        "type": "git",
+        "url": "https://github.com/hollowdoor/pointer_point.git"
+    }
 }
